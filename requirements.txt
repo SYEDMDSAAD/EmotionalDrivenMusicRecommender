@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+opencv-python
+opencv-python-headless
+tensorflow
+keras
+collection
+scikit-learn
+scikit-suprise
+spotipy
+python-dotenv
