@@ -1,1 +1,1 @@
-In progress
+An Emotion-Driven Music Recommender designed to suggest Spotify songs based on real-time emotion detection through facial scanning. By analyzing a user’s facial expressions, this tool identifies their emotional state and curates music that resonates with their current mood, helping them feel understood and uplifted through personalized song recommendations.
